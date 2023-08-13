@@ -5,3 +5,9 @@
 # solve
 
 - install latest version node
+
+# create node-version file using nodenv
+
+```
+nodenv local 16.15.0
+```
