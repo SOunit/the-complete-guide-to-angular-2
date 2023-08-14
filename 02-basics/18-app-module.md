@@ -1,0 +1,1 @@
+- add new component to app.module to let angular / typescript recognize the file
